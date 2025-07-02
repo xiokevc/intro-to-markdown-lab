@@ -7,22 +7,22 @@
 ## Ingredients You will Need! 
 
 ```javascript
-**For the sandwich**:
-* *French Baguette* (preferably Vietnamese-style light, crispy baguette)
+For the sandwich:
+1. French Baguette (preferably Vietnamese-style light, crispy baguette)
 
-* *Mayonnaise* (Japanese mayo is best)
+2. Mayonnaise (Japanese mayo is best)
 
-* *Pickled vegetables* (daikon + carrot)
+3. Pickled vegetables (daikon + carrot)
 
-* *Fresh cucumber slices* (cut hotdog-style)
+4. Fresh cucumber slices (cut hotdog-style)
 
-* *Fresh cilantro* (use only the leaves for maximum flavor)
+5. Fresh cilantro (use only the leaves for maximum flavor)
 
-* *Jalapeño slices* (optional, for spice)
+6. Jalapeño slices (optional, for spice)
 
-* *Protein of choice*:
-  * *Grilled pork, chicken, or tofu*
-  * *Vietnamese pork cold cuts* (optional traditional style)
+7. Protein of choice:
+    1. Grilled pork, chicken, or tofu*
+    2. Vietnamese pork cold cuts* (optional traditional style)
 ```
 > **BONUS:**
 > *You can add ***duck pâté*** for an added touch of umami!*
