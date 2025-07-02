@@ -27,7 +27,7 @@ For the sandwich:
 > **BONUS:**
 > *You can add ***duck pâté*** for an added touch of umami!*
 
-![perfect sandwhich](https://static.wixstatic.com/media/3c80bb_58db7b6a460743c683af950038cac679~mv2.png/v1/fill/w_2500,h_1666,al_c/3c80bb_58db7b6a460743c683af950038cac679~mv2.png)
+![perfect sandwhich](https://images.squarespace-cdn.com/content/v1/5f063187ead18a2e98ba7f9b/1644066740573-RSHWBUR2CNYMUDL6VR0B/chad-newton-gracie-nguyen-east-side-bahn-mi-2.jpg)
 
 ## How to Prepare your Pickled Veggies (Đồ Chua) 🥒
 
